@@ -1,0 +1,11 @@
+/* resources/css/app.css */
+html, body {
+    height: 100%;
+    margin: 0;
+    overflow: hidden;
+}
+
+#app {
+    height: 100%;
+    width: 100%;
+}
